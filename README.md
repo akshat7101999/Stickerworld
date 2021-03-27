@@ -29,7 +29,15 @@ Install the dependencies:
 
 ```bash
 > npm install
+> 
 ```
+**For Ubuntu**
+Additional run these commands -
+```bash
+> npm install --save @ffmpeg-installer/ffmpeg
+> npm install --save @ffprobe-installer/ffprobe
+```
+
 
 ### Usage
 1. run the Whatsapp bot
